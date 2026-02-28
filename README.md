@@ -3,7 +3,8 @@
 Minimal modular Discord bot with:
 - `events/clientReady.ts`
 - `events/interactionCreate.ts`
-- `/dice` slash command with dice notation parsing and short rolling animation
+- `/help` slash command with usage overview
+- `/dice` slash command with dice notation parsing
 
 ## Setup
 
