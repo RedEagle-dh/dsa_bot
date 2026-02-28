@@ -1,0 +1,17 @@
+{
+  "name": "dsa_bot",
+  "module": "index.ts",
+  "scripts": {
+    "dev": "bun --watch index.ts",
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@typescript/native-preview": "^7.0.0-dev.20260228.1"
+  },
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
